@@ -1,1 +1,1 @@
-# VizViz-Image-Captioning-Challenge
+# Image-Captioning
